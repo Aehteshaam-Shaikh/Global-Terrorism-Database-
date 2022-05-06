@@ -20,3 +20,17 @@
 •	Present these relationships using various Data Visualization Techniques 
 
 •	To Draw the important insights from it
+
+**Libraries used:**
+
+• Pandas
+
+• Numpy
+
+• Matplotlib
+
+• Seaborn
+
+
+**References:** https://www.analyticsvidhya.com/blog/2021/05/exploratory-data-analysis-eda-a-step-by-step-guide/
+
